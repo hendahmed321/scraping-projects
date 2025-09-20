@@ -4,6 +4,9 @@
 - Data was extracted from a CSV file on Kaggle.
 - link: https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset
 
+## Overview
+An analysis of factors affecting medical insurance costs.
+
 ## Process
 - Data was loaded and preprocessed using Python (Pandas and Numpy).
 - Analysis and visualization were performed in Power BI.
