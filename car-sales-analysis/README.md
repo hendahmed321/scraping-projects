@@ -1,7 +1,7 @@
 # Car Sales Analysis Project
 
 ## Source
-- Data was extracted from a CSV file on Kaggle.
+- Data was extracted from a SQL file on Kaggle.
 - link: https://www.kaggle.com/datasets/pratyushpuri/used-car-sales-listings-dataset-2025
 
 ## Project Overview
